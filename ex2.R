@@ -24,3 +24,5 @@ def bad_multiplication(a, b):
   product = a * b + 12
 
   return product
+  
+  # MAke some more comments
