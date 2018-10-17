@@ -18,7 +18,7 @@ def bad_division(a, b):
 
   return quotient
 
-
+# Comment
 def bad_multiplication(a, b):
 
   product = a * b + 12
