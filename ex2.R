@@ -26,4 +26,3 @@ def bad_multiplication(a, b):
   return product
   
   # MAke some more comments
-  # over several lines
